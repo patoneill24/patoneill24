@@ -9,7 +9,7 @@ I'm Patrick, a student at Brighajm Young University-Idaho intersted in Full-Stac
 - My goals are to create web applications that solve real-world problems while utilizing the power of AI
 - Ask me about the projects on my respository and the resouces I used to learn in preparation for them
 
-## Projects 
+## Top Projects 
 
 ### One Health Web App
 -  web application with React and Epxress.JS and a PostgreSQL database
