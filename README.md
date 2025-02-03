@@ -11,14 +11,20 @@ I'm Patrick, a student at Brighajm Young University-Idaho intersted in Full-Stac
 
 ## Top Projects 
 
-### One Health Web App
--  web application with React and Epxress.JS and a PostgreSQL database
--  All services are containerized with docker so that it can run the same on any machine
+### Rate Your Apartment Rexburg 
+-  Collaborating with partner to develop a web application providing apartment information in Rexburg,ID. 
+-  Technologies: Express.JS, React 
+-  Transferring Apartment data from json file to PostgreSQL database
+-  Deployment: Hosted at [aiven](https://aiven.io/)
+-  Planning to sell it to Brigham Young University of Idaho to provide students with information about all available apartments
+-  
 
 ### Cyber Chef  
-- web application with React and Express.JS and a SQLite database
+- web application with React and Express.JS
+- Data Storage for recipes: 
 - Restful API endpoints implmemented to enable users to create and view recipes
-- All recipes users creates are saved with local storage  
+- Recipes users liked are saved with local storage 
+- [Repo Link](https://github.com/patoneill24/CyberChef)
 
 ## Technologies and Tools
 
