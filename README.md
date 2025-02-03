@@ -17,7 +17,7 @@ I'm Patrick, a student at Brighajm Young University-Idaho intersted in Full-Stac
 -  Transferring Apartment data from json file to PostgreSQL database
 -  Deployment: Hosted at [aiven](https://aiven.io/)
 -  Planning to sell it to Brigham Young University of Idaho to provide students with information about all available apartments
--  
+-  [Repo Link](https://github.com/patoneill24/RateYourApartmentV2)
 
 ### Cyber Chef  
 - web application with React and Express.JS
