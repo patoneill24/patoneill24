@@ -20,11 +20,11 @@ I'm Patrick, a student at Brighajm Young University-Idaho intersted in Full-Stac
 -  [Repo Link](https://github.com/patoneill24/RateYourApartmentV2)
 
 ### Cyber Chef  
-•	Collaborated with team of 6 to develop a web application for publishing and viewing meal recipes
-•	Technology Stack: React, Expres.JS. SQLite for data storage of recipes
-•	Restful API endpoints implemented to enable users to create and view recipes
-•	Recipes users liked are saved with local storage
-•	[Repo Link](https://github.com/patoneill24/CyberChef)
+-	Collaborated with team of 6 to develop a web application for publishing and viewing meal recipes
+-	Technology Stack: React, Expres.JS. SQLite for data storage of recipes
+-	Restful API endpoints implemented to enable users to create and view recipes
+-	Recipes users liked are saved with local storage
+-	[Repo Link](https://github.com/patoneill24/CyberChef)
 
 
 ## Technologies and Tools
