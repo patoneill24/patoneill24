@@ -24,7 +24,7 @@ I'm Patrick, a student at Brighajm Young University-Idaho intersted in Full-Stac
 •	Technology Stack: React, Expres.JS. SQLite for data storage of recipes
 •	Restful API endpoints implemented to enable users to create and view recipes
 •	Recipes users liked are saved with local storage
-•	[Repo Link](https://github.com/patoneill24/CyberChef)![image]
+•	[Repo Link](https://github.com/patoneill24/CyberChef)
 
 
 ## Technologies and Tools
