@@ -14,7 +14,7 @@ I'm Patrick, a student at Brighajm Young University-Idaho intersted in Full-Stac
 ### Rate Your Apartment Rexburg 
 -  Collaborating with partner to develop a web application providing apartment information in Rexburg,ID. 
 -  Technologies: Express.JS, React 
--  Transferring Apartment data from json file to PostgreSQL database
+-  Transferring Apartment data from json file to mongoDB database
 -  Planning to sell it to Brigham Young University of Idaho to provide students with information about all available apartments
 -  [Repo Link](https://github.com/patoneill24/RateYourApartmentV2)
 
