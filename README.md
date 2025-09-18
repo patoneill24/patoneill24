@@ -15,7 +15,6 @@ I'm Patrick, a student at Brighajm Young University-Idaho intersted in Full-Stac
 -  Collaborating with partner to develop a web application providing apartment information in Rexburg,ID. 
 -  Technologies: Express.JS, React 
 -  Transferring Apartment data from json file to PostgreSQL database
--  Deployment: Hosted at [aiven](https://aiven.io/)
 -  Planning to sell it to Brigham Young University of Idaho to provide students with information about all available apartments
 -  [Repo Link](https://github.com/patoneill24/RateYourApartmentV2)
 
