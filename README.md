@@ -21,7 +21,7 @@ I'm Patrick, a student at Brighajm Young University-Idaho intersted in Full-Stac
 ### Medication Recording Application
 - Desgined, Developed, and Deployed a web application that provides platform for recording medication history for yourself and family
 - Tech Stack: React, Express.JS, Postgres Database
-- [Deployed Site]https://api.medication-family-tracker.xyz
+- [Deployed Site](https://api.medication-family-tracker.xyz)
 
 ### Cyber Chef  
 -	Collaborated with team of 6 to develop a web application for publishing and viewing meal recipes over a 14 week semester
