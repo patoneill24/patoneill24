@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-I'm Patrick, a student at Brighajm Young University-Idaho intersted in Full-Stack Web Development, Data Science and Machine Learning
+I'm Patrick, a Full-Stack Web Developer for [DataThink](https://datathink.io/) and a Computer Science Student at Brigham Young University-Idaho,
 
 ## About Me 
 - I'm currently learning how to work with Postgres Orms like Drizzle with Next.JS and SQL Alchemy with Fast API
