@@ -7,7 +7,7 @@ I'm Patrick, a Full-Stack Web Developer for [DataThink](https://datathink.io/) a
 ## About Me 
 - I'm currently learning how to work with Postgres Orms like Drizzle with Next.JS and SQL Alchemy with Fast API
 - My goals are to create web applications that solve real-world problems while utilizing the power of AI
-- Ask me about the projects on my respository and the resouces I used to learn in preparation for them
+- Check out my [portfolio](https://patrick-oneill.vercel.app/)
 
 ## Top Projects 
 
