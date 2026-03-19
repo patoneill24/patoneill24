@@ -9,26 +9,29 @@ I'm Patrick, a Full-Stack Web Developer for [DataThink](https://datathink.io/) a
 - My goals are to create web applications that solve real-world problems while utilizing the power of AI
 - Check out my [portfolio](https://patrick-oneill.vercel.app/)
 
-## Top Projects 
+## Top Side Projects 
 
-### Rate Your Apartment Rexburg 
--  Collaborating with partner to develop a web application providing apartment information in Rexburg,ID. 
--  Technologies: Express.JS, React 
--  Migrating to tailwind css and implementing shadcn UI componenets
--  Planning to sell it to Brigham Young University of Idaho to provide students with information about all available apartments
--  [Repo Link](https://github.com/patoneill24/RateYourApartmentV2)
+### Bracket-IQ
+- Platform built with Next.JS and Mongo for users to make bracket prediction for the 2025-26 College Football Playoffs
+- Global leaderboard to see how well you're predictions compares to that of other users
+- Cron job set up to pull final scores from college football API and grant points to users who make correct predictions. Users were alerted via email when they're overall score got updated
+- OTP authentication, leveraging Resend for sending emails
+- Coming soon: March Madness Sweet 16 bracket predictions! 
+- [Deployed Site](https://www.bracket-iq.app/)
+
+
+### Olin (AI Interviewer) 
+- 🏆 1st place at BYU-I Hackathon in the Human Progress Category
+- Worked on this with two other developers, creating a platform where users can paste in a job posting, and then have a live interview with an AI model
+- Next.JS with MongoDB on the backend
+- leveraged Gemini's TTS library to enable live inerviewing
+- [Repo Link](https://github.com/eglenn-dev/i-hack-2025)
 
 ### Medication Recording Application
 - Desgined, Developed, and Deployed a web application that provides platform for recording medication history for yourself and family
 - Tech Stack: React, Express.JS, Postgres Database
+- Coming Soon: Major Refactor to frontend design
 - [Deployed Site](https://api.medication-family-tracker.xyz)
-
-### Cyber Chef  
--	Collaborated with team of 6 to develop a web application for publishing and viewing meal recipes over a 14 week semester
--	Technology Stack: React, Expres.JS, SQLite for data storage of recipes
--	Restful API endpoints implemented to enable users to create and view recipes
--	Recipes users liked are saved with local storage
--	[Repo Link](https://github.com/patoneill24/CyberChef)
 
 
 ## Technologies and Tools
